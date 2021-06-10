@@ -18,4 +18,21 @@ A continuación, se encuentran los accesos a los trabajos de procesamiento de le
    - Matriz TF-IDF.
    - Medidas de similitud con distancia del coseno.
 5. [Agrupación de textos](https://github.com/RobinsonVelaG/NLP/blob/main/taller8.ipynb)
-   - 
+   - Clasificación de textos
+   - Metodo del codo
+   - Agrupación de textos con K-Means
+6. [Modelado de temas](https://github.com/RobinsonVelaG/NLP/blob/main/taller9.ipynb)
+   - LDA: Latent Dirichlet Allocation
+   - Visualización LDA
+7. [Nube de palabras](https://github.com/RobinsonVelaG/NLP/blob/main/Taller%2010.ipynb)
+   - Nube de palabras (WordCloud) en python.
+8. [Twitter](https://github.com/RobinsonVelaG/NLP/blob/main/taller11.ipynb)
+   - Extracción de tweets con la API de twetter
+   - Proprocesamiento de textos
+   - Visualizaciones con Plotly
+9. [Análisis de sentimiento](https://github.com/RobinsonVelaG/NLP/blob/main/taller12.ipynb)
+   - Analisis de sentimientos con la liberia Flair
+   - Visualizaciones con Plotly
+10. Proyecto NLP
+   - [Planes nacionales de desarrollo](https://github.com/RobinsonVelaG/NLP/blob/main/Proyecto_NLP_PND.ipynb): Evolución del lenguaje a traves de los planes nacionales de desarrollo de los ultimos 5 presidentes.
+   - [Tweets presidentes](https://github.com/RobinsonVelaG/NLP/blob/main/Proyecto_NLP_Tweeter.ipynb): Analisis de los tweets realizados desde las cuentas oficiales de los ultimos 5 presidentes de Colombia.
