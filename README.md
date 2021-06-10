@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Portafolio NLP
 
-You can use the [editor on GitHub](https://github.com/RobinsonVelaG/NLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Soy Robinson Vela Garcia, ingeniero de sistemas enfocado en Business Intelligence y futuro especialista en analítica de datos, tengo un gran interes en el procesamiento de datos y en como se pueden convertir en información importante en cualquier sector economico y social.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A continuación, se encuentran los accesos a los trabajos de procesamiento de lenguaje natural (NLP) realizados durante la especialización en analítica estratégica de datos utilizando el lenguaje de programación Python.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobinsonVelaG/NLP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Proyectos 2021
+1. [Adquisición de textos](https://github.com/RobinsonVelaG/NLP/blob/main/taller2.ipynb)
+  - Métodos de adquisión de textos más comunes.
+2. [Web Scraping](https://github.com/RobinsonVelaG/NLP/blob/main/taller3.ipynb)
+  - Ejemplo de extracción de texto de paginas de wikipedia
+- Herramientas generales de limpieza de texto.
+ - Expresiones regulares (RegEx)
+3. [Pre-Procesamiento de textos y Featuring Engineering](https://github.com/RobinsonVelaG/NLP/blob/main/taller4.ipynb)
+   - Palabras vacías, tokenizacion, steamming, lematización y etiquetado gramatical.
+   - Representación vectorial.
+4. [TF-IDF](https://github.com/RobinsonVelaG/NLP/blob/main/taller5.ipynb)
+   - Matriz TF-IDF.
+   - Medidas de similitud con distancia del coseno.
+5. [Agrupación de textos](https://github.com/RobinsonVelaG/NLP/blob/main/taller8.ipynb)
+   - 
